@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836935134796",
+    "firebase_url": "https://mrhwang-ffa9b.firebaseio.com",
+    "project_id": "mrhwang-ffa9b",
+    "storage_bucket": "mrhwang-ffa9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836935134796:android:6189caa5b86e185a",
+        "android_client_info": {
+          "package_name": "com.hanssoncompany.mr_hwang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836935134796-mr2mmat5vmp2ase50kdc03pp2v7naleu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFqBjXlKym-uYrU4-gTYbHQU-JfLWvHBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836935134796-mr2mmat5vmp2ase50kdc03pp2v7naleu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
